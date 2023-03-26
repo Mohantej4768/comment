@@ -1,0 +1,58 @@
+body{
+  background: #f1f1f1;
+}
+
+
+.textarea{
+  resize: none;
+}
+
+
+    .comentBox{
+    padding: 1%;
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+    }
+    
+    .leftPanelImg{
+    width:10%;
+    float:left;
+    }
+    
+    .leftPanelImg img{
+    border-radius: 100%;
+    }
+    
+    .rightPanel{
+    width:85%;
+    float:left;
+    margin-left: 1%;
+    
+    }
+    
+    .clear{
+    clear: both;
+    }
+
+    img {
+        float: left;
+        margin: 3px 10px 3px 0px;
+      }
+
+    .form{
+    padding: 10px;
+    background-color:#e4f4df;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    width:480px;
+    }
+    
+    .form input[type="text"], .form input[type="date"]{
+    padding: 3px;
+    }
+.form textarea{
+  width: 380px;
+}
+
+
